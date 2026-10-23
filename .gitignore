@@ -1,0 +1,20 @@
+
+# Java / Maven build outputs
+**/target/
+*.class
+
+# XMage generated databases
+**/db/
+*.mv.db
+*.trace.db
+*.lock.db
+
+# Generated logs
+*.log
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+

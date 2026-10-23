@@ -1,4 +1,4 @@
-package com.quantumchronos.bootstrap;
+package com.mtg.bootstrap;
 
 /** Dependency-free assertion test. No false rules-engine coverage claims. */
 public final class BootstrapTest {

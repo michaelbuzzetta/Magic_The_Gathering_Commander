@@ -1,4 +1,4 @@
-package com.quantumchronos.bootstrap;
+package com.mtg.bootstrap;
 
 /** Bootstrap smoke check only: this class is NOT a Magic game engine. */
 public final class Bootstrap {

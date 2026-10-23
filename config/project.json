@@ -1,5 +1,5 @@
 {
-  "project": "QuantumChronOS",
+  "project": "MTG Commander Simulator",
   "format": "Commander",
   "players": [
     2,
@@ -13,7 +13,7 @@
   "private_rooms": true,
   "offline_deck_library": true,
   "client_install_required": false,
-  "status": "scaffold-only",
+  "status": "step02-wip-dependencies-unverified",
   "rules_engine": "XMage (candidate; not integrated)",
   "ai_components": [
     "gameplay",
