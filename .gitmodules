@@ -1,0 +1,3 @@
+[submodule "external/mage"]
+	path = external/mage
+	url = https://github.com/magefree/mage.git

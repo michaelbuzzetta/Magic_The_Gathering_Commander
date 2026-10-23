@@ -1,0 +1,22 @@
+{
+  "project": "QuantumChronOS",
+  "format": "Commander",
+  "players": [
+    2,
+    3,
+    4
+  ],
+  "region": "us-ashburn-1",
+  "account_tier": "Free Tier",
+  "budget_usd_monthly": 0,
+  "repository_visibility": "UNRESOLVED public-vs-private preference",
+  "private_rooms": true,
+  "offline_deck_library": true,
+  "client_install_required": false,
+  "status": "scaffold-only",
+  "rules_engine": "XMage (candidate; not integrated)",
+  "ai_components": [
+    "gameplay",
+    "deck-building"
+  ]
+}
